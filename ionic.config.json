@@ -1,0 +1,7 @@
+{
+  "name": "iot-monitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
